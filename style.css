@@ -1,0 +1,46 @@
+/*.img1{
+    width: 70vw;
+    height: 30vw;
+    margin-left: 10%;
+}*/
+body{
+  background-image: url(/images/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.figure-caption{
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+  color:gray;
+}
+
+.pr{
+  color: black;
+  font-size: x-large;
+}
+
+.imgh:hover{
+  transform: scale(1.03);
+  opacity: 0.7;
+  cursor: grab;
+}
+
+
+
+.nm{
+  color: rgb(89, 0, 255);
+  text-shadow: 2px 2px 4px rgb(79, 0, 226);
+}
+
+.nm1{
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px 4px rgb(255, 122, 122);
+  opacity: 2;
+}
+
+.offer{
+  text-shadow: 2px 2px 4px rgb(123, 255, 0);
+}
